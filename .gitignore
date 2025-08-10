@@ -1,0 +1,6 @@
+.github/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+historial_conversacion.txt
